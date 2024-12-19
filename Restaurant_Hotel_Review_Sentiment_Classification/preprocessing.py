@@ -115,38 +115,3 @@ def clean_text(df,option=0):
 
     # df.to_csv('clean_data.csv')
     return df
-
-
-def process_data(data):
-    sentences = []
-    stop_words = open('Dataset_For_Work\\vietnamese-stopwords.txt','r',encoding='utf-8').read().split('\n')
-    for item in data:
-        processed_item = item.lower()
-        for s_t in stop_words:
-
-            processed_item = re.sub(rf" {s_t} ", ' ', processed_item)
-
-        processed_item = re.sub(f'[{punctuation}]',' ',processed_item)
-        processed_item = re.sub(f'\s+',' ',processed_item)
-        temp = underthesea.sent_tokenize(processed_item)
-        sentences += temp
-
-    tokenize_data = [underthesea.word_tokenize(i) for i in sentences]
-
-    return tokenize_data, sentences
-
-def process_data2(data):
-    data_doc = []
-    stop_words = open('Dataset_For_Work\\vietnamese-stopwords.txt','r',encoding='utf-8').read().split('\n')
-    for item in data:
-        processed_item = item.lower()
-        for s_t in stop_words:
-            processed_item = re.sub(rf" {s_t} ", ' ', processed_item)
-        processed_item = re.sub(f'[{punctuation}]',' ',processed_item)
-        processed_item = re.sub(f'\s+',' ',processed_item)
-        temp = underthesea.sent_tokenize(processed_item)
-        tokenize_data = []
-        for i in temp:
-          tokenize_data += underthesea.word_tokenize(i)
-        data_doc.append(tokenize_data)
-    return data_doc
