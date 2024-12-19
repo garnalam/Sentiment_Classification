@@ -135,7 +135,7 @@ def process_data(data):
 
     return tokenize_data, sentences
 
-def process_data(data):
+def process_data2(data):
     data_doc = []
     stop_words = open('Dataset_For_Work\\vietnamese-stopwords.txt','r',encoding='utf-8').read().split('\n')
     for item in data:
