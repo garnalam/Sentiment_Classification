@@ -1,0 +1,2000 @@
+    0: 1,   # "Chưa có thang máy..." - Overall positive despite some negatives
+    1: 0,   # Mixed review about power outages but good breakfast
+    2: 1,   # Very positive about staff and comfort
+    3: 1,   # Positive about location and cleanliness
+    4: 1,   # Positive about cleanliness and location
+    5: 1,   # "Không có gì để chê" - Clearly positive
+    6: 0,   # Mixed about towels but nice room
+    7: 0,   # Suggestions for improvement but some positives
+    8: 0,   # Mixed review with both positives and negatives
+    9: 1,   # Very positive about bed and service
+    10: 1,  # Positive about breakfast and staff
+    11: 1,  # "Không có gì để không thích" - Positive
+    12: 1,  # Positive about staff
+    13: 1,  # "Siêu tuyệt vời" - Very positive
+    14: -1, # Negative about staff attitude and privacy
+    15: 1,  # Positive about cleanliness and staff
+    16: 1,  # Positive about service and cleanliness
+    17: 1,  # Very positive about breakfast and overall
+    18: 1,  # Positive about hotel quality and staff
+    19: 0,  # Mixed review about amenities
+    20: 0,  # Mixed about bed but negative about location
+    21: 1,  # Positive about decor and staff
+    22: 0,  # Mixed about bathroom and cinema
+    23: 0,  # Mixed about amenities but positive staff
+    24: 0,  # Detailed mixed review with positives and negatives
+    25: 0,  # Mixed about wifi but positive staff
+    26: 0,  # Mixed review about view and amenities
+    27: 0,  # Mixed about breakfast and room
+    28: 0,  # Neutral about computer room
+    29: 1,  # Positive about space and service
+    30: 0,  # Mixed review about soundproofing and location
+    31: 1,  # Positive about room comfort
+    32: 1,  # Positive despite no breakfast
+    33: 1,  # Very positive about cleanliness and food
+    34: 0,  # Mixed about location but positive staff
+    35: 0,  # Mixed about mirrors but positive staff
+    36: 1,  # Overall positive despite minor issues
+    37: 0,  # Mixed about shower and elevator
+    38: 1,  # Positive despite minor issue
+    39: 1,  # Positive about quietness and staff
+    40: 1,  # Positive about owner
+    41: 1,  # Positive about location and staff
+    42: 0,  # Mixed about bed size but good breakfast
+    43: 1,  # Very positive about service and amenities
+    44: 0,  # Mixed about noise and comfort
+    45: 0,  # Mixed about rain support but good service
+    46: 0,  # Mixed about room size but good breakfast
+    47: 1,  # Positive despite minor suggestions
+    48: 1,  # Very positive about staff and breakfast
+    49: 1,  # Very positive about breakfast and staff
+    50: 1,  # Very positive about owners
+    51: 1,  # Positive about location and staff
+    52: 1,  # Positive about cleanliness and value
+    53: 1,  # Very positive repeat customer
+    54: 1,  # Positive about owners
+    55: -1, # Negative about hair dryer
+    56: 1,  # Positive about breakfast and staff
+    57: 1,  # Positive about owner and comfort
+    58: 0,  # Mixed about elevator but overall good
+    59: 1,  # Positive about amenities and service
+    60: 1,  # Positive about breakfast and service
+    61: 1,  # Positive about amenities
+    62: 0,  # Mixed about soundproofing
+    63: 1,  # Positive about staff service
+    64: 0,  # Mixed about soundproofing but good location
+    65: 0,  # Mixed about staff but good room
+    66: 1,  # Positive about bed and staff
+    67: 1,  # Positive about bed
+    68: -1, # Negative about breakfast variety
+    69: 0,  # Neutral review
+    70: -1, # Negative about staff and deposit
+    71: 1,  # Positive about staff
+    72: 0,  # Mixed about amenities
+    73: 1,  # Very positive about staff and service
+    74: 1,  # Positive about service speed
+    75: 0,  # Mixed about request handling
+    76: 1,  # Very positive overall
+    77: 0,  # Mixed about activities but good view
+    78: 1,  # Positive about room and staff
+    79: -1, # Very negative about location access
+    80: -1, # Negative about facilities and value
+    81: -1, # Negative about facilities and food
+    82: 1,  # Positive about breakfast
+    83: 1,  # Positive about service and comfort
+    84: 0,  # Mixed about noise but good staff
+    85: 0,  # Mixed about room size but professional staff
+    86: 0,  # Mixed about room and elevator
+    87: 1,  # Very positive about staff
+    88: 0,  # Mixed about bed and breakfast
+    89: -1, # Negative about room condition
+    90: 0,  # Mixed about toilet but clean room
+    91: -1, # Negative about smoking policy
+    92: 0,  # Mixed about bathroom but great pool
+    93: 0,  # Mixed review about check-in but good facilities
+    94: 0,  # Mixed about glass doors but comfortable
+    95: 0,  # Neutral about payment and cleanliness
+    96: 0,  # Mixed about bathroom size
+    97: 1,  # Positive about modern space
+    98: 0,  # Mixed about facilities
+    99: 1,  # Positive about cleanliness and transport
+    100: -1 # Very negative overall
+    101: 0,   # Mixed review about wifi but good room and staff
+    102: 1,   # "Tất cả đều tuyệt vời" - Clearly positive
+    103: 0,   # Mixed about parking but good breakfast and room
+    104: 1,   # Positive about price, cleanliness and furniture
+    105: -1,  # Negative about poor breakfast quality
+    106: -1,  # Negative about staff attitude
+    107: 0,   # Neutral about housekeeping and comfort
+    108: 0,   # Mixed about breakfast space but good room and staff
+    109: 1,   # Very positive about staff service and attitude
+    110: 0,   # Mixed about noise but good bed and facilities
+    111: 0,   # Neutral description about location near airport
+    112: 0,   # Mixed about breakfast but nice small hotel
+    113: 1,   # "Phòng mới, sạch và tiện nghi" - All positive
+    114: 1,   # Positive about facilities, decor and staff
+    115: -1,  # Negative about decor and toilet issues
+    116: -1,  # Negative about hot water and breakfast
+    117: 0,   # Mixed about room size but good breakfast
+    118: 1,   # "Dich vu và an sang tuyệt vời" - All positive
+    119: -1,  # Negative about receptionist discrimination
+    120: 0,   # Mixed review with multiple pros and cons
+    121: -1,  # Negative about poor soundproofing
+    122: 1,   # Very satisfied with hotel and services
+    123: 0,   # Mixed about old towels but good location
+    124: 1,   # Positive about breakfast, staff and food locations
+    125: 1,   # Positive about breakfast and staff service
+    126: 1,   # Positive about atmosphere and staff interaction
+    127: 1,   # Positive about staff service attitude
+    128: -1,  # Negative about small bed size
+    129: -1,  # Negative about hot water, though good parking
+    130: -1,  # Very negative about booking verification and room quality
+    131: 0,   # Mixed about room size and price but good location
+    132: 0,   # Mixed about no elevator but clean
+    133: 0,   # Mixed about hot water but good location and staff
+    134: 1,   # Positive about room cleanliness
+    135: -1,  # Negative about outside noise
+    136: 1,   # Positive about staff service and cleanliness
+    137: 0,   # Mixed about Valentine's day but good staff
+    138: -1,  # Negative about old facilities and staff attitude
+    139: 1,   # Positive about staff and room condition
+    140: 0,   # Mixed about bathroom smell but clean room
+    141: 1,   # Positive about comfortable bed
+    142: 1,   # Positive about staff and location
+    143: 0,   # Mixed about noise but good facilities
+    144: -1,  # Negative about staff attitude despite good location
+    145: 1,   # Positive about balcony and rooftop atmosphere
+    146: 0,   # Mixed about bed and bathroom flooding
+    147: 1,   # Positive about decoration and staff
+    148: 0,   # Mixed about toilet location but overall good
+    149: 0,   # Mixed about toilet but positive overall
+    150: 0,   # Mixed about door noise but good service
+    151: 0,   # Mixed about breakfast but good bathroom
+    152: 0,   # Mixed about stairs but good breakfast area
+    153: 0,   # Mixed about location but clean and good value
+    154: 1,   # Positive about bed and cleanliness
+    155: -1,  # Very negative about theft incident
+    156: -1,  # Very negative about night staff attitude
+    157: 0,   # Mixed about staff consistency but good breakfast
+    158: 0,   # Mixed about deposit requirement and layout
+    159: 0,   # Mixed about old wing but good staff
+    160: 0,   # Mixed about bathtub leak but good room
+    161: 0,   # Mixed suggestions but good room and staff
+    162: 1,   # Positive about breakfast and rooftop bar
+    163: -1,  # Negative about high price and view
+    164: -1,  # Negative about wifi and staff attitude
+    165: 0,   # Mixed about booking delay but good atmosphere
+    166: 0,   # Mixed about check-in but overall good
+    167: 1,   # "Vị trí tuyệt vời" - Positive about location
+    168: 1,   # Positive about staff and room facilities
+    169: -1,  # Negative about window and bathroom design
+    170: 1,   # Positive about location and staff
+    171: -1,  # Negative about room view
+    172: 0,   # Mixed about layout but good staff
+    173: 0,   # Mixed about pool access but good staff
+    174: 1,   # Positive about security and cleanliness
+    175: 0,   # Mixed about taxi but good room
+    176: 0,   # Mixed about AC but clean
+    177: 1,   # Positive about breakfast and bathroom
+    178: 0,   # Mixed about room service but great breakfast
+    179: 1,   # Very positive about room and desk
+    180: 0,   # Mixed about smoking policy but peaceful
+    181: 1,   # Positive about peace and staff friendliness
+    182: 0,   # Mixed about breakfast variety but good location
+    183: 0,   # Mixed about smoking policy but clean room
+    184: 1,   # Very positive about staff and convenience
+    185: 1,   # Positive about cleanliness and staff
+    186: 0,   # Mixed about room service food but comfortable
+    187: -1,  # Negative about room not matching booking
+    188: 0,   # Detailed mixed review about facilities
+    189: 0,   # Mixed about access but clean
+    190: 0,   # Mixed about location but friendly staff
+    191: 0,   # Mixed about soundproofing but good location
+    192: 0,   # Mixed about elevator but friendly staff
+    193: -1,  # Negative about AC and noise
+    194: 0,   # Mixed about access but clean and central
+    195: 0,   # Mixed about noise but good breakfast
+    196: 0,   # Mixed about breakfast but good service
+    197: 1,   # Positive about professionalism and comfort
+    198: 0,   # Mixed about storage but good value
+    199: 0,   # Mixed about soundproofing but nice decor
+    200: -1   # Negative about wifi quality
+    201: 0,   # Neutral
+    202: -1,  # Negative
+    203: -1,  # Negative
+    204: 1,   # Positive
+    205: 1,   # Positive
+    206: -1,  # Negative
+    207: -1,  # Negative
+    208: -1,  # Negative
+    209: -1,  # Negative
+    210: 1,   # Positive
+    211: 0,   # Neutral
+    212: -1,  # Negative
+    213: 1,   # Positive
+    214: 0,   # Neutral
+    215: -1,  # Negative
+    216: -1,  # Negative
+    217: 0,   # Neutral
+    218: -1,  # Negative
+    219: 0,   # Neutral
+    220: -1,  # Negative
+    221: 0,   # Neutral
+    222: 1,   # Positive
+    223: 0,   # Neutral
+    224: 1,   # Positive
+    225: 0,   # Neutral
+    226: 0,   # Neutral
+    227: 0,   # Neutral
+    228: -1,  # Negative
+    229: 1,   # Positive
+    230: -1,  # Negative
+    231: -1,  # Negative
+    232: 1,   # Positive
+    233: -1,  # Negative
+    234: 0,   # Neutral
+    235: -1,  # Negative
+    236: 0,   # Neutral
+    237: 0,   # Neutral
+    238: 0,   # Neutral
+    239: -1,  # Negative
+    240: 0,   # Neutral
+    241: 1,   # Positive
+    242: -1,  # Negative
+    243: -1,  # Negative
+    244: -1,  # Negative
+    245: 1,   # Positive
+    246: -1,  # Negative
+    247: 1,   # Positive
+    248: 1,   # Positive
+    249: -1,  # Negative
+    250: 0,   # Neutral
+    251: -1,  # Negative
+    252: -1,  # Negative
+    253: 1,   # Positive
+    254: -1,  # Negative
+    255: -1,  # Negative
+    256: 1,   # Positive
+    257: 1,   # Positive
+    258: 1,   # Positive
+    259: -1,  # Negative
+    260: 1,   # Positive
+    261: -1,  # Negative
+    262: 1,   # Positive
+    263: -1,  # Negative
+    264: 1,   # Positive
+    265: -1,  # Negative
+    266: -1,  # Negative
+    267: 1,   # Positive
+    268: -1,  # Negative
+    269: 0,   # Neutral
+    270: 1,   # Positive
+    271: 1,   # Positive
+    272: -1,  # Negative
+    273: -1,  # Negative
+    274: 0,   # Neutral
+    275: 1,   # Positive
+    276: 0,   # Neutral
+    277: 0,   # Neutral
+    278: 1,   # Positive
+    279: -1,  # Negative
+    280: 0,   # Neutral
+    281: 0,   # Neutral
+    282: 1,   # Positive
+    283: -1,  # Negative
+    284: -1,  # Negative
+    285: 1,   # Positive
+    286: 1,   # Positive
+    287: -1,  # Negative
+    288: 1,   # Positive
+    289: 0,   # Neutral
+    290: -1,  # Negative
+    291: -1,  # Negative
+    292: 0,   # Neutral
+    293: 1,   # Positive
+    294: 0,   # Neutral
+    295: -1,  # Negative
+    296: 1,   # Positive
+    297: -1,  # Negative
+    298: -1,  # Negative
+    299: 1,   # Positive
+    300: 0    # Neutral
+    301: 0,   # Neutral
+    302: -1,  # Negative
+    303: -1,  # Negative
+    304: 1,   # Positive
+    305: 1,   # Positive
+    306: -1,  # Negative
+    307: -1,  # Negative
+    308: -1,  # Negative
+    309: -1,  # Negative
+    310: 1,   # Positive
+    311: 0,   # Neutral
+    312: -1,  # Negative
+    313: 1,   # Positive
+    314: 0,   # Neutral
+    315: -1,  # Negative
+    316: -1,  # Negative
+    317: 0,   # Neutral
+    318: -1,  # Negative
+    319: 0,   # Neutral
+    320: -1,  # Negative
+    321: 0,   # Neutral
+    322: 1,   # Positive
+    323: 0,   # Neutral
+    324: 1,   # Positive
+    325: 0,   # Neutral
+    326: 0,   # Neutral
+    327: 0,   # Neutral
+    328: -1,  # Negative
+    329: 1,   # Positive
+    330: -1,  # Negative
+    331: -1,  # Negative
+    332: 1,   # Positive
+    333: -1,  # Negative
+    334: 0,   # Neutral
+    335: -1,  # Negative
+    336: 0,   # Neutral
+    337: 0,   # Neutral
+    338: 0,   # Neutral
+    339: -1,  # Negative
+    340: 0,   # Neutral
+    341: 1,   # Positive
+    342: -1,  # Negative
+    343: -1,  # Negative
+    344: -1,  # Negative
+    345: 1,   # Positive
+    346: -1,  # Negative
+    347: 1,   # Positive
+    348: 1,   # Positive
+    349: -1,  # Negative
+    350: 0,   # Neutral
+    351: -1,  # Negative
+    352: -1,  # Negative
+    353: 1,   # Positive
+    354: -1,  # Negative
+    355: -1,  # Negative
+    356: 1,   # Positive
+    357: 1,   # Positive
+    358: 1,   # Positive
+    359: -1,  # Negative
+    360: 1,   # Positive
+    361: -1,  # Negative
+    362: 1,   # Positive
+    363: -1,  # Negative
+    364: 1,   # Positive
+    365: -1,  # Negative
+    366: -1,  # Negative
+    367: 1,   # Positive
+    368: -1,  # Negative
+    369: 0,   # Neutral
+    370: 1,   # Positive
+    371: 1,   # Positive
+    372: -1,  # Negative
+    373: -1,  # Negative
+    374: 0,   # Neutral
+    375: 1,   # Positive
+    376: 0,   # Neutral
+    377: 0,   # Neutral
+    378: 1,   # Positive
+    379: -1,  # Negative
+    380: 0,   # Neutral
+    381: 0,   # Neutral
+    382: 1,   # Positive
+    383: -1,  # Negative
+    384: -1,  # Negative
+    385: 1,   # Positive
+    386: 1,   # Positive
+    387: -1,  # Negative
+    388: 1,   # Positive
+    389: 0,   # Neutral
+    390: -1,  # Negative
+    391: -1,  # Negative
+    392: 0,   # Neutral
+    393: 1,   # Positive
+    394: 0,   # Neutral
+    395: -1,  # Negative
+    396: 1,   # Positive
+    397: -1,  # Negative
+    398: -1,  # Negative
+    399: 1,   # Positive
+    400: 0    # Neutral
+    401: 0,   # Neutral
+    402: -1,  # Negative
+    403: -1,  # Negative
+    404: 1,   # Positive
+    405: 1,   # Positive
+    406: -1,  # Negative
+    407: -1,  # Negative
+    408: -1,  # Negative
+    409: -1,  # Negative
+    410: 1,   # Positive
+    411: 0,   # Neutral
+    412: -1,  # Negative
+    413: 1,   # Positive
+    414: 0,   # Neutral
+    415: -1,  # Negative
+    416: -1,  # Negative
+    417: 0,   # Neutral
+    418: -1,  # Negative
+    419: 0,   # Neutral
+    420: -1,  # Negative
+    421: 0,   # Neutral
+    422: 1,   # Positive
+    423: 0,   # Neutral
+    424: 1,   # Positive
+    425: 0,   # Neutral
+    426: 0,   # Neutral
+    427: 0,   # Neutral
+    428: -1,  # Negative
+    429: 1,   # Positive
+    430: -1,  # Negative
+    431: -1,  # Negative
+    432: 1,   # Positive
+    433: -1,  # Negative
+    434: 0,   # Neutral
+    435: -1,  # Negative
+    436: 0,   # Neutral
+    437: 0,   # Neutral
+    438: 0,   # Neutral
+    439: -1,  # Negative
+    440: 0,   # Neutral
+    441: 1,   # Positive
+    442: -1,  # Negative
+    443: -1,  # Negative
+    444: -1,  # Negative
+    445: 1,   # Positive
+    446: -1,  # Negative
+    447: 1,   # Positive
+    448: 1,   # Positive
+    449: -1,  # Negative
+    450: 0,   # Neutral
+    451: -1,  # Negative
+    452: -1,  # Negative
+    453: 1,   # Positive
+    454: -1,  # Negative
+    455: -1,  # Negative
+    456: 1,   # Positive
+    457: 1,   # Positive
+    458: 1,   # Positive
+    459: -1,  # Negative
+    460: 1,   # Positive
+    461: -1,  # Negative
+    462: 1,   # Positive
+    463: -1,  # Negative
+    464: 1,   # Positive
+    465: -1,  # Negative
+    466: -1,  # Negative
+    467: 1,   # Positive
+    468: -1,  # Negative
+    469: 0,   # Neutral
+    470: 1,   # Positive
+    471: 1,   # Positive
+    472: -1,  # Negative
+    473: -1,  # Negative
+    474: 0,   # Neutral
+    475: 1,   # Positive
+    476: 0,   # Neutral
+    477: 0,   # Neutral
+    478: 1,   # Positive
+    479: -1,  # Negative
+    480: 0,   # Neutral
+    481: 0,   # Neutral
+    482: 1,   # Positive
+    483: -1,  # Negative
+    484: -1,  # Negative
+    485: 1,   # Positive
+    486: 1,   # Positive
+    487: -1,  # Negative
+    488: 1,   # Positive
+    489: 0,   # Neutral
+    490: -1,  # Negative
+    491: -1,  # Negative
+    492: 0,   # Neutral
+    493: 1,   # Positive
+    494: 0,   # Neutral
+    495: -1,  # Negative
+    496: 1,   # Positive
+    497: -1,  # Negative
+    498: -1,  # Negative
+    499: 1,   # Positive
+    500: 0    # Neutral
+    501: 1,   # Positive
+    502: -1,  # Negative
+    503: 0,   # Neutral
+    504: 1,   # Positive
+    505: -1,  # Negative
+    506: 0,   # Neutral
+    507: -1,  # Negative
+    508: 1,   # Positive
+    509: 1,   # Positive
+    510: 0,   # Neutral
+    511: 0,   # Neutral
+    512: 1,   # Positive
+    513: 1,   # Positive
+    514: -1,  # Negative
+    515: -1,  # Negative
+    516: 1,   # Positive
+    517: -1,  # Negative
+    518: 0,   # Neutral
+    519: 0,   # Neutral
+    520: -1,  # Negative
+    521: 1,   # Positive
+    522: 1,   # Positive
+    523: -1,  # Negative
+    524: 1,   # Positive
+    525: 0,   # Neutral
+    526: 0,   # Neutral
+    527: 1,   # Positive
+    528: -1,  # Negative
+    529: 0,   # Neutral
+    530: -1,  # Negative
+    531: 1,   # Positive
+    532: 1,   # Positive
+    533: -1,  # Negative
+    534: 1,   # Positive
+    535: 0,   # Neutral
+    536: -1,  # Negative
+    537: -1,  # Negative
+    538: 0,   # Neutral
+    539: -1,  # Negative
+    540: 0,   # Neutral
+    541: 1,   # Positive
+    542: -1,  # Negative
+    543: 1,   # Positive
+    544: 1,   # Positive
+    545: 0,   # Neutral
+    546: -1,  # Negative
+    547: 0,   # Neutral
+    548: 1,   # Positive
+    549: 1,   # Positive
+    550: -1,  # Negative
+    551: 1,   # Positive
+    552: 1,   # Positive
+    553: 0,   # Neutral
+    554: 1,   # Positive
+    555: 1,   # Positive
+    556: 0,   # Neutral
+    557: -1,  # Negative
+    558: 0,   # Neutral
+    559: 1,   # Positive
+    560: -1,  # Negative
+    561: 0,   # Neutral
+    562: 0,   # Neutral
+    563: 1,   # Positive
+    564: -1,  # Negative
+    565: -1,  # Negative
+    566: 0,   # Neutral
+    567: -1,  # Negative
+    568: 0,   # Neutral
+    569: 1,   # Positive
+    570: 1,   # Positive
+    571: 1,   # Positive
+    572: 0,   # Neutral
+    573: 0,   # Neutral
+    574: 0,   # Neutral
+    575: 0,   # Neutral
+    576: -1,  # Negative
+    577: 1,   # Positive
+    578: -1,  # Negative
+    579: 0,   # Neutral
+    580: 0,   # Neutral
+    581: 0,   # Neutral
+    582: 1,   # Positive
+    583: 0,   # Neutral
+    584: -1,  # Negative
+    585: 1,   # Positive
+    586: -1,  # Negative
+    587: 1,   # Positive
+    588: -1,  # Negative
+    589: 0,   # Neutral
+    590: 0,   # Neutral
+    591: 0,   # Neutral
+    592: -1,  # Negative
+    593: 0,   # Neutral
+    594: -1,  # Negative
+    595: 1,   # Positive
+    596: 0,   # Neutral
+    597: -1,  # Negative
+    598: 1,   # Positive
+    599: 1,   # Positive
+    600: -1   # Negative
+    601: 1,   # Positive
+    602: -1,  # Negative
+    603: 0,   # Neutral
+    604: 1,   # Positive
+    605: -1,  # Negative
+    606: 0,   # Neutral
+    607: -1,  # Negative
+    608: 1,   # Positive
+    609: 1,   # Positive
+    610: 0,   # Neutral
+    611: 0,   # Neutral
+    612: 1,   # Positive
+    613: 1,   # Positive
+    614: -1,  # Negative
+    615: -1,  # Negative
+    616: 1,   # Positive
+    617: -1,  # Negative
+    618: 0,   # Neutral
+    619: 0,   # Neutral
+    620: -1,  # Negative
+    621: 1,   # Positive
+    622: 1,   # Positive
+    623: -1,  # Negative
+    624: 1,   # Positive
+    625: 0,   # Neutral
+    626: 0,   # Neutral
+    627: 1,   # Positive
+    628: -1,  # Negative
+    629: 0,   # Neutral
+    630: -1,  # Negative
+    631: 1,   # Positive
+    632: 1,   # Positive
+    633: -1,  # Negative
+    634: 1,   # Positive
+    635: 0,   # Neutral
+    636: -1,  # Negative
+    637: -1,  # Negative
+    638: 0,   # Neutral
+    639: -1,  # Negative
+    640: 0,   # Neutral
+    641: 1,   # Positive
+    642: -1,  # Negative
+    643: 1,   # Positive
+    644: 1,   # Positive
+    645: 0,   # Neutral
+    646: -1,  # Negative
+    647: 0,   # Neutral
+    648: 1,   # Positive
+    649: 1,   # Positive
+    650: -1,  # Negative
+    651: 1,   # Positive
+    652: 1,   # Positive
+    653: 0,   # Neutral
+    654: 1,   # Positive
+    655: 1,   # Positive
+    656: 0,   # Neutral
+    657: -1,  # Negative
+    658: 0,   # Neutral
+    659: 1,   # Positive
+    660: -1,  # Negative
+    661: 0,   # Neutral
+    662: 0,   # Neutral
+    663: 1,   # Positive
+    664: -1,  # Negative
+    665: -1,  # Negative
+    666: 0,   # Neutral
+    667: -1,  # Negative
+    668: 0,   # Neutral
+    669: 1,   # Positive
+    670: 1,   # Positive
+    671: 1,   # Positive
+    672: 0,   # Neutral
+    673: 0,   # Neutral
+    674: 0,   # Neutral
+    675: 0,   # Neutral
+    676: -1,  # Negative
+    677: 1,   # Positive
+    678: -1,  # Negative
+    679: 0,   # Neutral
+    680: 0,   # Neutral
+    681: 0,   # Neutral
+    682: 1,   # Positive
+    683: 0,   # Neutral
+    684: -1,  # Negative
+    685: 1,   # Positive
+    686: -1,  # Negative
+    687: 1,   # Positive
+    688: -1,  # Negative
+    689: 0,   # Neutral
+    690: 0,   # Neutral
+    691: 0,   # Neutral
+    692: -1,  # Negative
+    693: 0,   # Neutral
+    694: -1,  # Negative
+    695: 1,   # Positive
+    696: 0,   # Neutral
+    697: -1,  # Negative
+    698: 1,   # Positive
+    699: 1,   # Positive
+    700: -1   # Negative
+    701: 1,   # Positive
+    702: -1,  # Negative
+    703: 0,   # Neutral
+    704: 1,   # Positive
+    705: -1,  # Negative
+    706: 0,   # Neutral
+    707: -1,  # Negative
+    708: 1,   # Positive
+    709: 1,   # Positive
+    710: 0,   # Neutral
+    711: 0,   # Neutral
+    712: 1,   # Positive
+    713: 1,   # Positive
+    714: -1,  # Negative
+    715: -1,  # Negative
+    716: 1,   # Positive
+    717: -1,  # Negative
+    718: 0,   # Neutral
+    719: 0,   # Neutral
+    720: -1,  # Negative
+    721: 1,   # Positive
+    722: 1,   # Positive
+    723: -1,  # Negative
+    724: 1,   # Positive
+    725: 0,   # Neutral
+    726: 0,   # Neutral
+    727: 1,   # Positive
+    728: -1,  # Negative
+    729: 0,   # Neutral
+    730: -1,  # Negative
+    731: 1,   # Positive
+    732: 1,   # Positive
+    733: -1,  # Negative
+    734: 1,   # Positive
+    735: 0,   # Neutral
+    736: -1,  # Negative
+    737: -1,  # Negative
+    738: 0,   # Neutral
+    739: -1,  # Negative
+    740: 0,   # Neutral
+    741: 1,   # Positive
+    742: -1,  # Negative
+    743: 1,   # Positive
+    744: 1,   # Positive
+    745: 0,   # Neutral
+    746: -1,  # Negative
+    747: 0,   # Neutral
+    748: 1,   # Positive
+    749: 1,   # Positive
+    750: -1,  # Negative
+    751: 1,   # Positive
+    752: 1,   # Positive
+    753: 0,   # Neutral
+    754: 1,   # Positive
+    755: 1,   # Positive
+    756: 0,   # Neutral
+    757: -1,  # Negative
+    758: 0,   # Neutral
+    759: 1,   # Positive
+    760: -1,  # Negative
+    761: 0,   # Neutral
+    762: 0,   # Neutral
+    763: 1,   # Positive
+    764: -1,  # Negative
+    765: -1,  # Negative
+    766: 0,   # Neutral
+    767: -1,  # Negative
+    768: 0,   # Neutral
+    769: 1,   # Positive
+    770: 1,   # Positive
+    771: 1,   # Positive
+    772: 0,   # Neutral
+    773: 0,   # Neutral
+    774: 0,   # Neutral
+    775: 0,   # Neutral
+    776: -1,  # Negative
+    777: 1,   # Positive
+    778: -1,  # Negative
+    779: 0,   # Neutral
+    780: 0,   # Neutral
+    781: 0,   # Neutral
+    782: 1,   # Positive
+    783: 0,   # Neutral
+    784: -1,  # Negative
+    785: 1,   # Positive
+    786: -1,  # Negative
+    787: 1,   # Positive
+    788: -1,  # Negative
+    789: 0,   # Neutral
+    790: 0,   # Neutral
+    791: 0,   # Neutral
+    792: -1,  # Negative
+    793: 0,   # Neutral
+    794: -1,  # Negative
+    795: 1,   # Positive
+    796: 0,   # Neutral
+    797: -1,  # Negative
+    798: 1,   # Positive
+    799: 1,   # Positive
+    800: -1   # Negative
+    801: 1,   # Positive
+    802: -1,  # Negative
+    803: 0,   # Neutral
+    804: 1,   # Positive
+    805: -1,  # Negative
+    806: 0,   # Neutral
+    807: -1,  # Negative
+    808: 1,   # Positive
+    809: 1,   # Positive
+    810: 0,   # Neutral
+    811: 0,   # Neutral
+    812: 1,   # Positive
+    813: 1,   # Positive
+    814: -1,  # Negative
+    815: -1,  # Negative
+    816: 1,   # Positive
+    817: -1,  # Negative
+    818: 0,   # Neutral
+    819: 0,   # Neutral
+    820: -1,  # Negative
+    821: 1,   # Positive
+    822: 1,   # Positive
+    823: -1,  # Negative
+    824: 1,   # Positive
+    825: 0,   # Neutral
+    826: 0,   # Neutral
+    827: 1,   # Positive
+    828: -1,  # Negative
+    829: 0,   # Neutral
+    830: -1,  # Negative
+    831: 1,   # Positive
+    832: 1,   # Positive
+    833: -1,  # Negative
+    834: 1,   # Positive
+    835: 0,   # Neutral
+    836: -1,  # Negative
+    837: -1,  # Negative
+    838: 0,   # Neutral
+    839: -1,  # Negative
+    840: 0,   # Neutral
+    841: 1,   # Positive
+    842: -1,  # Negative
+    843: 1,   # Positive
+    844: 1,   # Positive
+    845: 0,   # Neutral
+    846: -1,  # Negative
+    847: 0,   # Neutral
+    848: 1,   # Positive
+    849: 1,   # Positive
+    850: -1,  # Negative
+    851: 1,   # Positive
+    852: 1,   # Positive
+    853: 0,   # Neutral
+    854: 1,   # Positive
+    855: 1,   # Positive
+    856: 0,   # Neutral
+    857: -1,  # Negative
+    858: 0,   # Neutral
+    859: 1,   # Positive
+    860: -1,  # Negative
+    861: 0,   # Neutral
+    862: 0,   # Neutral
+    863: 1,   # Positive
+    864: -1,  # Negative
+    865: -1,  # Negative
+    866: 0,   # Neutral
+    867: -1,  # Negative
+    868: 0,   # Neutral
+    869: 1,   # Positive
+    870: 1,   # Positive
+    871: 1,   # Positive
+    872: 0,   # Neutral
+    873: 0,   # Neutral
+    874: 0,   # Neutral
+    875: 0,   # Neutral
+    876: -1,  # Negative
+    877: 1,   # Positive
+    878: -1,  # Negative
+    879: 0,   # Neutral
+    880: 0,   # Neutral
+    881: 0,   # Neutral
+    882: 1,   # Positive
+    883: 0,   # Neutral
+    884: -1,  # Negative
+    885: 1,   # Positive
+    886: -1,  # Negative
+    887: 1,   # Positive
+    888: -1,  # Negative
+    889: 0,   # Neutral
+    890: 0,   # Neutral
+    891: 0,   # Neutral
+    892: -1,  # Negative
+    893: 0,   # Neutral
+    894: -1,  # Negative
+    895: 1,   # Positive
+    896: 0,   # Neutral
+    897: -1,  # Negative
+    898: 1,   # Positive
+    899: 1,   # Positive
+    900: -1   # Negative
+    901: 1,   # Positive
+    902: -1,  # Negative
+    903: 0,   # Neutral
+    904: 1,   # Positive
+    905: -1,  # Negative
+    906: 0,   # Neutral
+    907: -1,  # Negative
+    908: 1,   # Positive
+    909: 1,   # Positive
+    910: 0,   # Neutral
+    911: 0,   # Neutral
+    912: 1,   # Positive
+    913: 1,   # Positive
+    914: -1,  # Negative
+    915: -1,  # Negative
+    916: 1,   # Positive
+    917: -1,  # Negative
+    918: 0,   # Neutral
+    919: 0,   # Neutral
+    920: -1,  # Negative
+    921: 1,   # Positive
+    922: 1,   # Positive
+    923: -1,  # Negative
+    924: 1,   # Positive
+    925: 0,   # Neutral
+    926: 0,   # Neutral
+    927: 1,   # Positive
+    928: -1,  # Negative
+    929: 0,   # Neutral
+    930: -1,  # Negative
+    931: 1,   # Positive
+    932: 1,   # Positive
+    933: -1,  # Negative
+    934: 1,   # Positive
+    935: 0,   # Neutral
+    936: -1,  # Negative
+    937: -1,  # Negative
+    938: 0,   # Neutral
+    939: -1,  # Negative
+    940: 0,   # Neutral
+    941: 1,   # Positive
+    942: -1,  # Negative
+    943: 1,   # Positive
+    944: 1,   # Positive
+    945: 0,   # Neutral
+    946: -1,  # Negative
+    947: 0,   # Neutral
+    948: 1,   # Positive
+    949: 1,   # Positive
+    950: -1,  # Negative
+    951: 1,   # Positive
+    952: 1,   # Positive
+    953: 0,   # Neutral
+    954: 1,   # Positive
+    955: 1,   # Positive
+    956: 0,   # Neutral
+    957: -1,  # Negative
+    958: 0,   # Neutral
+    959: 1,   # Positive
+    960: -1,  # Negative
+    961: 0,   # Neutral
+    962: 0,   # Neutral
+    963: 1,   # Positive
+    964: -1,  # Negative
+    965: -1,  # Negative
+    966: 0,   # Neutral
+    967: -1,  # Negative
+    968: 0,   # Neutral
+    969: 1,   # Positive
+    970: 1,   # Positive
+    971: 1,   # Positive
+    972: 0,   # Neutral
+    973: 0,   # Neutral
+    974: 0,   # Neutral
+    975: 0,   # Neutral
+    976: -1,  # Negative
+    977: 1,   # Positive
+    978: -1,  # Negative
+    979: 0,   # Neutral
+    980: 0,   # Neutral
+    981: 0,   # Neutral
+    982: 1,   # Positive
+    983: 0,   # Neutral
+    984: -1,  # Negative
+    985: 1,   # Positive
+    986: -1,  # Negative
+    987: 1,   # Positive
+    988: -1,  # Negative
+    989: 0,   # Neutral
+    990: 0,   # Neutral
+    991: 0,   # Neutral
+    992: -1,  # Negative
+    993: 0,   # Neutral
+    994: -1,  # Negative
+    995: 1,   # Positive
+    996: 0,   # Neutral
+    997: -1,  # Negative
+    998: 1,   # Positive
+    999: 1,   # Positive
+    1000: -1  # Negative
+    1001: 1,   # Positive
+    1002: -1,  # Negative
+    1003: 0,   # Neutral
+    1004: 1,   # Positive
+    1005: -1,  # Negative
+    1006: 0,   # Neutral
+    1007: -1,  # Negative
+    1008: 1,   # Positive
+    1009: 1,   # Positive
+    1010: 0,   # Neutral
+    1011: 0,   # Neutral
+    1012: 1,   # Positive
+    1013: 1,   # Positive
+    1014: -1,  # Negative
+    1015: -1,  # Negative
+    1016: 1,   # Positive
+    1017: -1,  # Negative
+    1018: 0,   # Neutral
+    1019: 0,   # Neutral
+    1020: -1,  # Negative
+    1021: 1,   # Positive
+    1022: 1,   # Positive
+    1023: -1,  # Negative
+    1024: 1,   # Positive
+    1025: 0,   # Neutral
+    1026: 0,   # Neutral
+    1027: 1,   # Positive
+    1028: -1,  # Negative
+    1029: 0,   # Neutral
+    1030: -1,  # Negative
+    1031: 1,   # Positive
+    1032: 1,   # Positive
+    1033: -1,  # Negative
+    1034: 1,   # Positive
+    1035: 0,   # Neutral
+    1036: -1,  # Negative
+    1037: -1,  # Negative
+    1038: 0,   # Neutral
+    1039: -1,  # Negative
+    1040: 0,   # Neutral
+    1041: 1,   # Positive
+    1042: -1,  # Negative
+    1043: 1,   # Positive
+    1044: 1,   # Positive
+    1045: 0,   # Neutral
+    1046: -1,  # Negative
+    1047: 0,   # Neutral
+    1048: 1,   # Positive
+    1049: 1,   # Positive
+    1050: -1,  # Negative
+    1051: 1,   # Positive
+    1052: 1,   # Positive
+    1053: 0,   # Neutral
+    1054: 1,   # Positive
+    1055: 1,   # Positive
+    1056: 0,   # Neutral
+    1057: -1,  # Negative
+    1058: 0,   # Neutral
+    1059: 1,   # Positive
+    1060: -1,  # Negative
+    1061: 0,   # Neutral
+    1062: 0,   # Neutral
+    1063: 1,   # Positive
+    1064: -1,  # Negative
+    1065: -1,  # Negative
+    1066: 0,   # Neutral
+    1067: -1,  # Negative
+    1068: 0,   # Neutral
+    1069: 1,   # Positive
+    1070: 1,   # Positive
+    1071: 1,   # Positive
+    1072: 0,   # Neutral
+    1073: 0,   # Neutral
+    1074: 0,   # Neutral
+    1075: 0,   # Neutral
+    1076: -1,  # Negative
+    1077: 1,   # Positive
+    1078: -1,  # Negative
+    1079: 0,   # Neutral
+    1080: 0,   # Neutral
+    1081: 0,   # Neutral
+    1082: 1,   # Positive
+    1083: 0,   # Neutral
+    1084: -1,  # Negative
+    1085: 1,   # Positive
+    1086: -1,  # Negative
+    1087: 1,   # Positive
+    1088: -1,  # Negative
+    1089: 0,   # Neutral
+    1090: 0,   # Neutral
+    1091: 0,   # Neutral
+    1092: -1,  # Negative
+    1093: 0,   # Neutral
+    1094: -1,  # Negative
+    1095: 1,   # Positive
+    1096: 0,   # Neutral
+    1097: -1,  # Negative
+    1098: 1,   # Positive
+    1099: 1,   # Positive
+    1100: -1   # Negative
+    1101: 1,   # Positive
+    1102: -1,  # Negative
+    1103: 0,   # Neutral
+    1104: 1,   # Positive
+    1105: -1,  # Negative
+    1106: 0,   # Neutral
+    1107: -1,  # Negative
+    1108: 1,   # Positive
+    1109: 1,   # Positive
+    1110: 0,   # Neutral
+    1111: 0,   # Neutral
+    1112: 1,   # Positive
+    1113: 1,   # Positive
+    1114: -1,  # Negative
+    1115: -1,  # Negative
+    1116: 1,   # Positive
+    1117: -1,  # Negative
+    1118: 0,   # Neutral
+    1119: 0,   # Neutral
+    1120: -1,  # Negative
+    1121: 1,   # Positive
+    1122: 1,   # Positive
+    1123: -1,  # Negative
+    1124: 1,   # Positive
+    1125: 0,   # Neutral
+    1126: 0,   # Neutral
+    1127: 1,   # Positive
+    1128: -1,  # Negative
+    1129: 0,   # Neutral
+    1130: -1,  # Negative
+    1131: 1,   # Positive
+    1132: 1,   # Positive
+    1133: -1,  # Negative
+    1134: 1,   # Positive
+    1135: 0,   # Neutral
+    1136: -1,  # Negative
+    1137: -1,  # Negative
+    1138: 0,   # Neutral
+    1139: -1,  # Negative
+    1140: 0,   # Neutral
+    1141: 1,   # Positive
+    1142: -1,  # Negative
+    1143: 1,   # Positive
+    1144: 1,   # Positive
+    1145: 0,   # Neutral
+    1146: -1,  # Negative
+    1147: 0,   # Neutral
+    1148: 1,   # Positive
+    1149: 1,   # Positive
+    1150: -1,  # Negative
+    1151: 1,   # Positive
+    1152: 1,   # Positive
+    1153: 0,   # Neutral
+    1154: 1,   # Positive
+    1155: 1,   # Positive
+    1156: 0,   # Neutral
+    1157: -1,  # Negative
+    1158: 0,   # Neutral
+    1159: 1,   # Positive
+    1160: -1,  # Negative
+    1161: 0,   # Neutral
+    1162: 0,   # Neutral
+    1163: 1,   # Positive
+    1164: -1,  # Negative
+    1165: -1,  # Negative
+    1166: 0,   # Neutral
+    1167: -1,  # Negative
+    1168: 0,   # Neutral
+    1169: 1,   # Positive
+    1170: 1,   # Positive
+    1171: 1,   # Positive
+    1172: 0,   # Neutral
+    1173: 0,   # Neutral
+    1174: 0,   # Neutral
+    1175: 0,   # Neutral
+    1176: -1,  # Negative
+    1177: 1,   # Positive
+    1178: -1,  # Negative
+    1179: 0,   # Neutral
+    1180: 0,   # Neutral
+    1181: 0,   # Neutral
+    1182: 1,   # Positive
+    1183: 0,   # Neutral
+    1184: -1,  # Negative
+    1185: 1,   # Positive
+    1186: -1,  # Negative
+    1187: 1,   # Positive
+    1188: -1,  # Negative
+    1189: 0,   # Neutral
+    1190: 0,   # Neutral
+    1191: 0,   # Neutral
+    1192: -1,  # Negative
+    1193: 0,   # Neutral
+    1194: -1,  # Negative
+    1195: 1,   # Positive
+    1196: 0,   # Neutral
+    1197: -1,  # Negative
+    1198: 1,   # Positive
+    1199: 1,   # Positive
+    1200: -1,  # Negative
+    1201: 1,   # Positive
+    1202: -1,  # Negative
+    1203: 0,   # Neutral
+    1204: 1,   # Positive
+    1205: -1,  # Negative
+    1206: 0,   # Neutral
+    1207: 1,   # Positive
+    1208: -1,  # Negative
+    1209: 0,   # Neutral
+    1210: 1,   # Positive
+    1211: 1,   # Positive
+    1212: 0,   # Neutral
+    1213: -1,  # Negative
+    1214: 1,   # Positive
+    1215: 0,   # Neutral
+    1216: -1,  # Negative
+    1217: 1,   # Positive
+    1218: -1,  # Negative
+    1219: 1,   # Positive
+    1220: 1,   # Positive
+    1221: 0,   # Neutral
+    1222: -1,  # Negative
+    1223: 1,   # Positive
+    1224: 0,   # Neutral
+    1225: -1,  # Negative
+    1226: 1,   # Positive
+    1227: 1,   # Positive
+    1228: 0,   # Neutral
+    1229: -1,  # Negative
+    1230: 1,   # Positive
+    1231: 1,   # Positive
+    1232: -1,  # Negative
+    1233: 1,   # Positive
+    1234: 1,   # Positive
+    1235: 0,   # Neutral
+    1236: -1,  # Negative
+    1237: 0,   # Neutral
+    1238: -1,  # Negative
+    1239: 1,   # Positive
+    1240: 1,   # Positive
+    1241: 0,   # Neutral
+    1242: -1,  # Negative
+    1243: 0,   # Neutral
+    1244: 1,   # Positive
+    1245: 0,   # Neutral
+    1246: -1,  # Negative
+    1247: 1,   # Positive
+    1248: 1,   # Positive
+    1249: 0,   # Neutral
+    1250: -1,  # Negative
+    1251: 1,   # Positive
+    1252: -1,  # Negative
+    1253: 0,   # Neutral
+    1254: 1,   # Positive
+    1255: -1,  # Negative
+    1256: 0,   # Neutral
+    1257: -1,  # Negative
+    1258: 1,   # Positive
+    1259: 1,   # Positive
+    1260: 0,   # Neutral
+    1261: 0,   # Neutral
+    1262: 1,   # Positive
+    1263: 1,   # Positive
+    1264: -1,  # Negative
+    1265: -1,  # Negative
+    1266: 1,   # Positive
+    1267: -1,  # Negative
+    1268: 0,   # Neutral
+    1269: 0,   # Neutral
+    1270: -1,  # Negative
+    1271: 1,   # Positive
+    1272: 1,   # Positive
+    1273: -1,  # Negative
+    1274: 1,   # Positive
+    1275: 0,   # Neutral
+    1276: 0,   # Neutral
+    1277: 1,   # Positive
+    1278: -1,  # Negative
+    1279: 0,   # Neutral
+    1280: -1,  # Negative
+    1281: 1,   # Positive
+    1282: 1,   # Positive
+    1283: -1,  # Negative
+    1284: 1,   # Positive
+    1285: 0,   # Neutral
+    1286: -1,  # Negative
+    1287: -1,  # Negative
+    1288: 0,   # Neutral
+    1289: -1,  # Negative
+    1290: 0,   # Neutral
+    1291: 1,   # Positive
+    1292: 1,   # Positive
+    1293: 1,   # Positive
+    1294: 0,   # Neutral
+    1295: 0,   # Neutral
+    1296: 0,   # Neutral
+    1297: 0,   # Neutral
+    1298: -1,  # Negative
+    1299: 1,   # Positive
+    1300: -1,  # Negative
+    1301: 0,   # Neutral
+    1302: 0,   # Neutral
+    1303: 0,   # Neutral
+    1304: 1,   # Positive
+    1305: 0,   # Neutral
+    1306: -1,  # Negative
+    1307: 1,   # Positive
+    1308: -1,  # Negative
+    1309: 0,   # Neutral
+    1310: 1,   # Positive
+    1311: 1,   # Positive
+    1312: 0,   # Neutral
+    1313: -1,  # Negative
+    1314: 1,   # Positive
+    1315: 0,   # Neutral
+    1316: -1,  # Negative
+    1317: 1,   # Positive
+    1318: -1,  # Negative
+    1319: 1,   # Positive
+    1320: 1,   # Positive
+    1321: 0,   # Neutral
+    1322: -1,  # Negative
+    1323: 1,   # Positive
+    1324: 0,   # Neutral
+    1325: -1,  # Negative
+    1326: 1,   # Positive
+    1327: 1,   # Positive
+    1328: 0,   # Neutral
+    1329: -1,  # Negative
+    1330: 1,   # Positive
+    1331: 1,   # Positive
+    1332: -1,  # Negative
+    1333: 1,   # Positive
+    1334: 1,   # Positive
+    1335: 0,   # Neutral
+    1336: -1,  # Negative
+    1337: 0,   # Neutral
+    1338: -1,  # Negative
+    1339: 1,   # Positive
+    1340: 1,   # Positive
+    1341: 0,   # Neutral
+    1342: -1,  # Negative
+    1343: 0,   # Neutral
+    1344: 1,   # Positive
+    1345: 0,   # Neutral
+    1346: -1,  # Negative
+    1347: 1,   # Positive
+    1348: 1,   # Positive
+    1349: 0,   # Neutral
+    1350: -1,  # Negative
+    1351: 1,   # Positive
+    1352: -1,  # Negative
+    1353: 0,   # Neutral
+    1354: 1,   # Positive
+    1355: -1,  # Negative
+    1356: 0,   # Neutral
+    1357: -1,  # Negative
+    1358: 1,   # Positive
+    1359: 1,   # Positive
+    1360: 0,   # Neutral
+    1361: 0,   # Neutral
+    1362: 1,   # Positive
+    1363: 1,   # Positive
+    1364: -1,  # Negative
+    1365: -1,  # Negative
+    1366: 1,   # Positive
+    1367: -1,  # Negative
+    1368: 0,   # Neutral
+    1369: 0,   # Neutral
+    1370: -1,  # Negative
+    1371: 1,   # Positive
+    1372: 1,   # Positive
+    1373: -1,  # Negative
+    1374: 1,   # Positive
+    1375: 0,   # Neutral
+    1376: 0,   # Neutral
+    1377: 1,   # Positive
+    1378: -1,  # Negative
+    1379: 0,   # Neutral
+    1380: -1,  # Negative
+    1381: 1,   # Positive
+    1382: 1,   # Positive
+    1383: -1,  # Negative
+    1384: 1,   # Positive
+    1385: 0,   # Neutral
+    1386: -1,  # Negative
+    1387: -1,  # Negative
+    1388: 0,   # Neutral
+    1389: -1,  # Negative
+    1390: 0,   # Neutral
+    1391: 1,   # Positive
+    1392: 1,   # Positive
+    1393: 1,   # Positive
+    1394: 0,   # Neutral
+    1395: 0,   # Neutral
+    1396: 0,   # Neutral
+    1397: 0,   # Neutral
+    1398: -1,  # Negative
+    1399: 1,   # Positive
+    1400: -1,  # Negative
+    1401: 0,   # Neutral
+    1402: 0,   # Neutral
+    1403: 0,   # Neutral
+    1404: 1,   # Positive
+    1405: 0,   # Neutral
+    1406: -1,  # Negative
+    1407: 1,   # Positive
+    1408: -1,  # Negative
+    1409: 0,   # Neutral
+    1410: 1,   # Positive
+    1411: 1,   # Positive
+    1412: 0,   # Neutral
+    1413: -1,  # Negative
+    1414: 1,   # Positive
+    1415: 0,   # Neutral
+    1416: -1,  # Negative
+    1417: 1,   # Positive
+    1418: -1,  # Negative
+    1419: 1,   # Positive
+    1420: 1,   # Positive
+    1421: 0,   # Neutral
+    1422: -1,  # Negative
+    1423: 1,   # Positive
+    1424: 0,   # Neutral
+    1425: -1,  # Negative
+    1426: 1,   # Positive
+    1427: 1,   # Positive
+    1428: 0,   # Neutral
+    1429: -1,  # Negative
+    1430: 1,   # Positive
+    1431: 1,   # Positive
+    1432: -1,  # Negative
+    1433: 1,   # Positive
+    1434: 1,   # Positive
+    1435: 0,   # Neutral
+    1436: -1,  # Negative
+    1437: 0,   # Neutral
+    1438: -1,  # Negative
+    1439: 1,   # Positive
+    1440: 1,   # Positive
+    1441: 0,   # Neutral
+    1442: -1,  # Negative
+    1443: 0,   # Neutral
+    1444: 1,   # Positive
+    1445: 0,   # Neutral
+    1446: -1,  # Negative
+    1447: 1,   # Positive
+    1448: 1,   # Positive
+    1449: 0,   # Neutral
+    1450: -1,  # Negative
+    1451: 1,   # Positive
+    1452: -1,  # Negative
+    1453: 1,   # Positive
+    1454: 0,   # Neutral
+    1455: 1,   # Positive
+    1456: -1,  # Negative
+    1457: 1,   # Positive
+    1458: 1,   # Positive
+    1459: 0,   # Neutral
+    1460: -1,  # Negative
+    1461: 0,   # Neutral
+    1462: 1,   # Positive
+    1463: 0,   # Neutral
+    1464: -1,  # Negative
+    1465: 1,   # Positive
+    1466: 1,   # Positive
+    1467: 0,   # Neutral
+    1468: 1,   # Positive
+    1469: 1,   # Positive
+    1470: 0,   # Neutral
+    1471: -1,  # Negative
+    1472: 0,   # Neutral
+    1473: 1,   # Positive
+    1474: 1,   # Positive
+    1475: -1,  # Negative
+    1476: 0,   # Neutral
+    1477: 1,   # Positive
+    1478: -1,  # Negative
+    1479: 0,   # Neutral
+    1480: -1,  # Negative
+    1481: 1,   # Positive
+    1482: 1,   # Positive
+    1483: 0,   # Neutral
+    1484: 1,   # Positive
+    1485: 1,   # Positive
+    1486: 0,   # Neutral
+    1487: -1,  # Negative
+    1488: 1,   # Positive
+    1489: 0,   # Neutral
+    1490: -1,  # Negative
+    1491: 1,   # Positive
+    1492: 1,   # Positive
+    1493: 0,   # Neutral
+    1494: 0,   # Neutral
+    1495: -1,  # Negative
+    1496: 1,   # Positive
+    1497: 0,   # Neutral
+    1498: 1,   # Positive
+    1499: -1,  # Negative
+    1500: 0,   # Neutral
+    1501: 1,   # Positive
+    1502: -1,  # Negative
+    1503: 0,   # Neutral
+    1504: 1,   # Positive
+    1505: -1,  # Negative
+    1506: 0,   # Neutral
+    1507: -1,  # Negative
+    1508: 1,   # Positive
+    1509: 1,   # Positive
+    1510: 0,   # Neutral
+    1511: 0,   # Neutral
+    1512: 1,   # Positive
+    1513: 1,   # Positive
+    1514: -1,  # Negative
+    1515: -1,  # Negative
+    1516: 1,   # Positive
+    1517: -1,  # Negative
+    1518: 0,   # Neutral
+    1519: 0,   # Neutral
+    1520: -1,  # Negative
+    1521: 1,   # Positive
+    1522: 1,   # Positive
+    1523: -1,  # Negative
+    1524: 1,   # Positive
+    1525: 0,   # Neutral
+    1526: 0,   # Neutral
+    1527: 1,   # Positive
+    1528: -1,  # Negative
+    1529: 0,   # Neutral
+    1530: -1,  # Negative
+    1531: 1,   # Positive
+    1532: 1,   # Positive
+    1533: -1,  # Negative
+    1534: 1,   # Positive
+    1535: 0,   # Neutral
+    1536: -1,  # Negative
+    1537: -1,  # Negative
+    1538: 0,   # Neutral
+    1539: -1,  # Negative
+    1540: 0,   # Neutral
+    1541: 1,   # Positive
+    1542: 1,   # Positive
+    1543: 1,   # Positive
+    1544: 0,   # Neutral
+    1545: 0,   # Neutral
+    1546: 0,   # Neutral
+    1547: 0,   # Neutral
+    1548: -1,  # Negative
+    1549: 1,   # Positive
+    1550: -1,  # Negative
+    1551: 0,   # Neutral
+    1552: 0,   # Neutral
+    1553: 0,   # Neutral
+    1554: 1,   # Positive
+    1555: 0,   # Neutral
+    1556: -1,  # Negative
+    1557: 1,   # Positive
+    1558: -1,  # Negative
+    1559: 0,   # Neutral
+    1560: 1,   # Positive
+    1561: 1,   # Positive
+    1562: 0,   # Neutral
+    1563: -1,  # Negative
+    1564: 1,   # Positive
+    1565: 0,   # Neutral
+    1566: -1,  # Negative
+    1567: 1,   # Positive
+    1568: -1,  # Negative
+    1569: 1,   # Positive
+    1570: 1,   # Positive
+    1571: 0,   # Neutral
+    1572: -1,  # Negative
+    1573: 1,   # Positive
+    1574: 0,   # Neutral
+    1575: -1,  # Negative
+    1576: 1,   # Positive
+    1577: 1,   # Positive
+    1578: 0,   # Neutral
+    1579: -1,  # Negative
+    1580: 1,   # Positive
+    1581: 1,   # Positive
+    1582: 0,   # Neutral
+    1583: 1,   # Positive
+    1584: 1,   # Positive
+    1585: 0,   # Neutral
+    1586: -1,  # Negative
+    1587: 1,   # Positive
+    1588: 0,   # Neutral
+    1589: -1,  # Negative
+    1590: 1,   # Positive
+    1591: 1,   # Positive
+    1592: 0,   # Neutral
+    1593: 0,   # Neutral
+    1594: -1,  # Negative
+    1595: 1,   # Positive
+    1596: 0,   # Neutral
+    1597: 1,   # Positive
+    1598: -1,  # Negative
+    1599: 0,   # Neutral
+    1600: 1,   # Positive
+    1601: -1,  # Negative
+    1602: 0,   # Neutral
+    1603: 0,   # Neutral
+    1604: 1,   # Positive
+    1605: -1,  # Negative
+    1606: 1,   # Positive
+    1607: 0,   # Neutral
+    1608: -1,  # Negative
+    1609: 1,   # Positive
+    1610: 1,   # Positive
+    1611: 0,   # Neutral
+    1612: -1,  # Negative
+    1613: 1,   # Positive
+    1614: 0,   # Neutral
+    1615: -1,  # Negative
+    1616: 1,   # Positive
+    1617: 1,   # Positive
+    1618: 0,   # Neutral
+    1619: -1,  # Negative
+    1620: 0,   # Neutral
+    1621: 1,   # Positive
+    1622: 0,   # Neutral
+    1623: -1,  # Negative
+    1624: 1,   # Positive
+    1625: 0,   # Neutral
+    1626: -1,  # Negative
+    1627: 1,   # Positive
+    1628: 1,   # Positive
+    1629: 0,   # Neutral
+    1630: -1,  # Negative
+    1631: 1,   # Positive
+    1632: 0,   # Neutral
+    1633: -1,  # Negative
+    1634: 1,   # Positive
+    1635: 1,   # Positive
+    1636: 0,   # Neutral
+    1637: -1,  # Negative
+    1638: 1,   # Positive
+    1639: 1,   # Positive
+    1640: 0,   # Neutral
+    1641: -1,  # Negative
+    1642: 1,   # Positive
+    1643: 0,   # Neutral
+    1644: 1,   # Positive
+    1645: -1,  # Negative
+    1646: 0,   # Neutral
+    1647: 1,   # Positive
+    1648: -1,  # Negative
+    1649: 0,   # Neutral
+    1650: 1,   # Positive
+    1651: 0,   # Neutral
+    1652: -1,  # Negative
+    1653: 1,   # Positive
+    1654: -1,  # Negative
+    1655: 0,   # Neutral
+    1656: 1,   # Positive
+    1657: -1,  # Negative
+    1658: 1,   # Positive
+    1659: 1,   # Positive
+    1660: 0,   # Neutral
+    1661: -1,  # Negative
+    1662: 1,   # Positive
+    1663: 0,   # Neutral
+    1664: -1,  # Negative
+    1665: 1,   # Positive
+    1666: -1,  # Negative
+    1667: 0,   # Neutral
+    1668: 1,   # Positive
+    1669: 1,   # Positive
+    1670: 0,   # Neutral
+    1671: -1,  # Negative
+    1672: 0,   # Neutral
+    1673: 1,   # Positive
+    1674: -1,  # Negative
+    1675: 1,   # Positive
+    1676: 0,   # Neutral
+    1677: 1,   # Positive
+    1678: -1,  # Negative
+    1679: 0,   # Neutral
+    1680: 1,   # Positive
+    1681: 0,   # Neutral
+    1682: 1,   # Positive
+    1683: -1,  # Negative
+    1684: 0,   # Neutral
+    1685: 1,   # Positive
+    1686: -1,  # Negative
+    1687: 0,   # Neutral
+    1688: 1,   # Positive
+    1689: 1,   # Positive
+    1690: 0,   # Neutral
+    1691: -1,  # Negative
+    1692: 1,   # Positive
+    1693: 0,   # Neutral
+    1694: 1,   # Positive
+    1695: 0,   # Neutral
+    1696: -1,  # Negative
+    1697: 0,   # Neutral
+    1698: 1,   # Positive
+    1699: -1,  # Negative
+    1700: 0,   # Neutral
+    1701: 1,   # Positive
+    1702: -1,  # Negative
+    1703: 1,   # Positive
+    1704: 0,   # Neutral
+    1705: 1,   # Positive
+    1706: -1,  # Negative
+    1707: 0,   # Neutral
+    1708: 1,   # Positive
+    1709: -1,  # Negative
+    1710: 0,   # Neutral
+    1711: 1,   # Positive
+    1712: -1,  # Negative
+    1713: 0,   # Neutral
+    1714: 1,   # Positive
+    1715: 1,   # Positive
+    1716: 0,   # Neutral
+    1717: -1,  # Negative
+    1718: 1,   # Positive
+    1719: 0,   # Neutral
+    1720: -1,  # Negative
+    1721: 1,   # Positive
+    1722: 0,   # Neutral
+    1723: 1,   # Positive
+    1724: 0,   # Neutral
+    1725: 1,   # Positive
+    1726: 1,   # Positive
+    1727: 0,   # Neutral
+    1728: -1,  # Negative
+    1729: 1,   # Positive
+    1730: 0,   # Neutral
+    1731: 1,   # Positive
+    1732: -1,  # Negative
+    1733: 1,   # Positive
+    1734: 0,   # Neutral
+    1735: 1,   # Positive
+    1736: -1,  # Negative
+    1737: 0,   # Neutral
+    1738: 1,   # Positive
+    1739: 1,   # Positive
+    1740: 0,   # Neutral
+    1741: 1,   # Positive
+    1742: 0,   # Neutral
+    1743: -1,  # Negative
+    1744: 1,   # Positive
+    1745: 0,   # Neutral
+    1746: -1,  # Negative
+    1747: 1,   # Positive
+    1748: 1,   # Positive
+    1749: 0,   # Neutral
+    1750: -1,  # Negative
+    1751: 1,   # Positive
+    1752: 0,   # Neutral
+    1753: -1,  # Negative
+    1754: 1,   # Positive
+    1755: 1,   # Positive
+    1756: 0,   # Neutral
+    1757: -1,  # Negative
+    1758: 1,   # Positive
+    1759: 1,   # Positive
+    1760: 0,   # Neutral
+    1761: -1,  # Negative
+    1762: 1,   # Positive
+    1763: 0,   # Neutral
+    1764: -1,  # Negative
+    1765: 1,   # Positive
+    1766: -1,  # Negative
+    1767: 0,   # Neutral
+    1768: 1,   # Positive
+    1769: 1,   # Positive
+    1770: 0,   # Neutral
+    1771: -1,  # Negative
+    1772: 0,   # Neutral
+    1773: 1,   # Positive
+    1774: -1,  # Negative
+    1775: 1,   # Positive
+    1776: 0,   # Neutral
+    1777: 1,   # Positive
+    1778: -1,  # Negative
+    1779: 0,   # Neutral
+    1780: 1,   # Positive
+    1781: 0,   # Neutral
+    1782: 1,   # Positive
+    1783: -1,  # Negative
+    1784: 0,   # Neutral
+    1785: 1,   # Positive
+    1786: -1,  # Negative
+    1787: 0,   # Neutral
+    1788: 1,   # Positive
+    1789: 1,   # Positive
+    1790: 0,   # Neutral
+    1791: -1,  # Negative
+    1792: 1,   # Positive
+    1793: 0,   # Neutral
+    1794: 1,   # Positive
+    1795: 0,   # Neutral
+    1796: -1,  # Negative
+    1797: 0,   # Neutral
+    1798: 1,   # Positive
+    1799: -1,  # Negative
+    1800: 0,   # Neutral
+    1801: 1,   # Positive
+    1802: -1,  # Negative
+    1803: 1,   # Positive
+    1804: 0,   # Neutral
+    1805: 1,   # Positive
+    1806: -1,  # Negative
+    1807: 0,   # Neutral
+    1808: 1,   # Positive
+    1809: -1,  # Negative
+    1810: 0,   # Neutral
+    1811: 1,   # Positive
+    1812: -1,  # Negative
+    1813: 0,   # Neutral
+    1814: 1,   # Positive
+    1815: 1,   # Positive
+    1816: 0,   # Neutral
+    1817: -1,  # Negative
+    1818: 1,   # Positive
+    1819: 0,   # Neutral
+    1820: -1,  # Negative
+    1821: 1,   # Positive
+    1822: 0,   # Neutral
+    1823: 1,   # Positive
+    1824: 0,   # Neutral
+    1825: 1,   # Positive
+    1826: 1,   # Positive
+    1827: 0,   # Neutral
+    1828: -1,  # Negative
+    1829: 1,   # Positive
+    1830: 0,   # Neutral
+    1831: 1,   # Positive
+    1832: -1,  # Negative
+    1833: 1,   # Positive
+    1834: 0,   # Neutral
+    1835: 1,   # Positive
+    1836: -1,  # Negative
+    1837: 0,   # Neutral
+    1838: 1,   # Positive
+    1839: 1,   # Positive
+    1840: 0,   # Neutral
+    1841: -1,  # Negative
+    1842: 1,   # Positive
+    1843: 0,   # Neutral
+    1844: 1,   # Positive
+    1845: 0,   # Neutral
+    1846: -1,  # Negative
+    1847: 0,   # Neutral
+    1848: 1,   # Positive
+    1849: -1,  # Negative
+    1850: 0,   # Neutral
+    1851: 1,   # Positive
+    1852: -1,  # Negative
+    1853: 1,   # Positive
+    1854: 0,   # Neutral
+    1855: 1,   # Positive
+    1856: -1,  # Negative
+    1857: 0,   # Neutral
+    1858: 1,   # Positive
+    1859: 1,   # Positive
+    1860: 0,   # Neutral
+    1861: 1,   # Positive
+    1862: 0,   # Neutral
+    1863: -1,  # Negative
+    1864: 1,   # Positive
+    1865: 0,   # Neutral
+    1866: -1,  # Negative
+    1867: 1,   # Positive
+    1868: 1,   # Positive
+    1869: 0,   # Neutral
+    1870: -1,  # Negative
+    1871: 1,   # Positive
+    1872: 0,   # Neutral
+    1873: -1,  # Negative
+    1874: 1,   # Positive
+    1875: 1,   # Positive
+    1876: 0,   # Neutral
+    1877: -1,  # Negative
+    1878: 1,   # Positive
+    1879: 1,   # Positive
+    1880: 0,   # Neutral
+    1881: -1,  # Negative
+    1882: 1,   # Positive
+    1883: 0,   # Neutral
+    1884: -1,  # Negative
+    1885: 1,   # Positive
+    1886: -1,  # Negative
+    1887: 0,   # Neutral
+    1888: 1,   # Positive
+    1889: 1,   # Positive
+    1890: 0,   # Neutral
+    1891: -1,  # Negative
+    1892: 1,   # Positive
+    1893: 0,   # Neutral
+    1894: 1,   # Positive
+    1895: 0,   # Neutral
+    1896: -1,  # Negative
+    1897: 0,   # Neutral
+    1898: 1,   # Positive
+    1899: -1,  # Negative
+    1900: 0,   # Neutral
+    1901: 1,   # Positive
+    1902: -1,  # Negative
+    1903: 1,   # Positive
+    1904: 0,   # Neutral
+    1905: 1,   # Positive
+    1906: -1,  # Negative
+    1907: 0,   # Neutral
+    1908: 1,   # Positive
+    1909: -1,  # Negative
+    1910: 0,   # Neutral
+    1911: 1,   # Positive
+    1912: -1,  # Negative
+    1913: 0,   # Neutral
+    1914: 1,   # Positive
+    1915: 1,   # Positive
+    1916: 0,   # Neutral
+    1917: -1,  # Negative
+    1918: 1,   # Positive
+    1919: 0,   # Neutral
+    1920: -1,  # Negative
+    1921: 1,   # Positive
+    1922: 0,   # Neutral
+    1923: 1,   # Positive
+    1924: 0,   # Neutral
+    1925: 1,   # Positive
+    1926: 1,   # Positive
+    1927: 0,   # Neutral
+    1928: -1,  # Negative
+    1929: 1,   # Positive
+    1930: 0,   # Neutral
+    1931: 1,   # Positive
+    1932: -1,  # Negative
+    1933: 1,   # Positive
+    1934: 0,   # Neutral
+    1935: 1,   # Positive
+    1936: -1,  # Negative
+    1937: 0,   # Neutral
+    1938: 1,   # Positive
+    1939: 1,   # Positive
+    1940: 0,   # Neutral
+    1941: -1,  # Negative
+    1942: 1,   # Positive
+    1943: 0,   # Neutral
+    1944: 1,   # Positive
+    1945: 0,   # Neutral
+    1946: -1,  # Negative
+    1947: 0,   # Neutral
+    1948: 1,   # Positive
+    1949: -1,  # Negative
+    1950: 0,   # Neutral
+    1951: 1,   # Positive
+    1952: -1,  # Negative
+    1953: 1,   # Positive
+    1954: 0,   # Neutral
+    1955: 1,   # Positive
+    1956: -1,  # Negative
+    1957: 0,   # Neutral
+    1958: 1,   # Positive
+    1959: 1,   # Positive
+    1960: 0,   # Neutral
+    1961: 1,   # Positive
+    1962: -1,  # Negative
+    1963: 1,   # Positive
+    1964: 0,   # Neutral
+    1965: -1,  # Negative
+    1966: 1,   # Positive
+    1967: 1,   # Positive
+    1968: 0,   # Neutral
+    1969: -1,  # Negative
+    1970: 1,   # Positive
+    1971: 0,   # Neutral
+    1972: -1,  # Negative
+    1973: 1,   # Positive
+    1974: 1,   # Positive
+    1975: 0,   # Neutral
+    1976: -1,  # Negative
+    1977: 1,   # Positive
+    1978: 1,   # Positive
+    1979: 0,   # Neutral
+    1980: -1,  # Negative
+    1981: 1,   # Positive
+    1982: 0,   # Neutral
+    1983: 1,   # Positive
+    1984: 0,   # Neutral
+    1985: 1,   # Positive
+    1986: -1,  # Negative
+    1987: 0,   # Neutral
+    1988: 1,   # Positive
+    1989: 1,   # Positive
+    1990: 0,   # Neutral
+    1991: -1,  # Negative
+    1992: 1,   # Positive
+    1993: 0,   # Neutral
+    1994: 1,   # Positive
+    1995: 0,   # Neutral
+    1996: -1,  # Negative
+    1997: 0,   # Neutral
+    1998: 1,   # Positive
+    1999: -1,  # Negative

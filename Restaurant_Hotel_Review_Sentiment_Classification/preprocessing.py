@@ -24,10 +24,10 @@ def read_data(path):
 
 
 def adding_label(data):
+
     label = data["sentiment"].values
-
     clean_label = []
-
+    
     for i in range(len(label)):
         sample = label[i].split(",")
         for j in range(len(sample)):
